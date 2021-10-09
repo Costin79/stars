@@ -1,0 +1,1 @@
+## Javascript stars rating system.
